@@ -1,2 +1,2 @@
 # PrimeiroProjeto
- Primeiro projeto com Git
+ Primeiro projeto com Git criado em uma aula
